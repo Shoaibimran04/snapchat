@@ -5,12 +5,12 @@
     
 }
 
-@media screen and (max-width: 375px) { 
+@media only screen and (max-width: 375px) { 
     .image{
         width: 50%;
     }
     .body{
-        color: aqua;
+        background-color: bisque;
     }
 
 }
