@@ -5,13 +5,32 @@
     
 }
 
-@media only screen and (max-width: 375px) { 
+@media only screen and (max-width: 500px) { 
     .image{
         width: 50%;
     }
-    .body{
-        background-color: bisque;
+    h1{
+        margin-bottom: 2rem;
+        text-transform: uppercase;
+        
     }
+    h2{
+        text-transform: uppercase;
+        font-size: 10px;
+        text-align: center;
+    }
+    h4{
+        text-align: center;
+        text-transform: uppercase;
+    }
+    nav ul{
+        width: 100%;
+    }
+    nav ul li{
+        width: 100%;
+    }
+    
+   
 
 }
 
