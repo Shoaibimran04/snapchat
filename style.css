@@ -61,6 +61,7 @@ h5{
     color: red;
 }
 
+
 nav a{
     font-family: 'Fira Sans', sans-serif;
     text-decoration: none;
@@ -81,6 +82,7 @@ nav ul li{
 .image{
     align-items: center;
     justify-content: right;
+    height: 300px;
 }
 
 .video{
